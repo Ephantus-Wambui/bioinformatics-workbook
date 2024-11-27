@@ -27,8 +27,17 @@ My expertise is in the field of molecular biology, genetics and computational bi
 
 ### Rick E. Masonbrink
 ![Rick](../assets/images/people/Rick.jpg){: .align-left}
-Currently, I am an associate scientist in the Genome Informatics Facility at Iowa State University, working with a group of amazing people. Here, I work on a multitude of projects, including a continuation of my previous research. Some of these projects involve:  characterizing the genomes of endangered abalone species, assessing the cellular roles of small RNAs in nematodes, creating user-friendly bioinformatics tutorials, assessing transposition in irradiated maize, trans-splicing in nematodes, etc.  With the huge variation of collaborative projects that come into the Genome Informatics Facility, the constant influx of novel ideas creates an environment conducive to my development as a contributing member of the scientific community.
+I am fortunate to work as a research scientist in the Genome Informatics Facility at Iowa State University, where I am surrounded by highly skilled bioinformaticians and constantly exposed to new ideas and approaches. This dynamic environment fosters my passion for science and my curiosity to keep learning and growing. With the support of the USDA, I have had the opportunity to create workshops and tutorials, and I also assist our faculty and industry collaborators through fee-for-service work. Over the years, I’ve been involved in a wide range of projects, developing and applying bioinformatics pipelines tailored to specific needs. I have also gained considerable experience in Hi-C scaffolding and genome annotation. I view this continuous exchange of ideas as key to my growth as both a researcher and a contributing member of the broader scientific community.
 
+### Aleksandra Badaczewska
+![Alex](../assets/images/people/Alex.png){: .align-left}
+Alex is a Research Scientist IV at the Genome Informatics Facility at Iowa State University. Her academic background is in Chemistry and Biotechnology, with a Ph.D. in Computational Biology and broad experience in programming and designing web applications. She develops a comprehensive collection of highly customizable visualization solutions for Bioinformatics and supports software optimization for the USDA Geospatial analyses.
+<br>
+
+### Sharu Paul
+
+![Sharu](../assets/images/people/Sharu.jpg){: .align-left}
+Sharu is a Visiting Scientist at the Genome Informatics Facility at Iowa State University. His background is in Biotechnology with a Ph.D. in Genetics and Genomics. He is using a diverse array of bioinformatic analyses to solve big data problems and contribute to developing workshops and tutorials for USDA scientists.
 
 ### Maryam Sayadi
 ![Maryam](../assets/images/people/Maryam.jpg){: .align-left}
